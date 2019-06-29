@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-   <img src="https://media2.giphy.com/media/ROTOkR1B002R2/giphy.gif?cid=790b76115d17d26c6271385363fd005f&rid=giphy.gif" alt="Books and Martial Arts title="Books and Martial Arts" />
+   <img src="https://media2.giphy.com/media/ROTOkR1B002R2/giphy.gif?cid=790b76115d17d26c6271385363fd005f&rid=giphy.gif" alt="Books and Martial Arts" title="Books and Martial Arts" />
   <br>
 </p>
 <p align="center">
