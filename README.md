@@ -13,4 +13,4 @@ This organization is dedicated to hosting all source code that I have created to
 
 Every repository is directly related to only one article. Also, on their `README.md` files would be a link to the original article. Feel free to fork those repositories or copy those codes. If you have any questions about them you can send a message directly to me on [Twitter](https://twitter.com/_odelucca) or through [e-mail](mailto:delucca@pm.me)
 
-There is some code that I've removed recently. If you're searching for something that isn't here anymore please send me an e-mail to delucca@pm.me
+There is some code that I've removed recently. If you're searching for something that isn't here anymore please send me an e-mail to delucca@pm.me.
